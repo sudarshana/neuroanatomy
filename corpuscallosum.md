@@ -1,11 +1,12 @@
-Corpus callosum
-/ˈkôrpəs kəˈlōsəm/
+**Corpus callosum
+/ˈkôrpəs kəˈlōsəm/**
 
 The corpus callosum is a thick, C-shaped bundle of neural fibers located in the brain that connects the left and right cerebral hemispheres.
 
 The corpus callosum is the largest white matter structure in the brain, consisting of approximately 200 million axons that facilitate interhemispheric communication and coordination.
 
 ![Corpus callosum](https://upload.wikimedia.org/wikipedia/commons/6/60/Corpus_callosum.png)
+
 [Image courtesy: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Corpus_callosum.png)
 
 **Function:** The primary function of the corpus callosum is to enable communication and integration of information between the two cerebral hemispheres. It allows for the transfer of sensory, motor, and cognitive information, ensuring that both hemispheres work together seamlessly.
