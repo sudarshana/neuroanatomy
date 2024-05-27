@@ -1,5 +1,4 @@
-**Corpus callosum
-/ˈkôrpəs kəˈlōsəm/**
+# Corpus callosum /ˈkôrpəs kəˈlōsəm/**
 
 The corpus callosum is a thick, C-shaped bundle of neural fibers located in the brain that connects the left and right cerebral hemispheres.
 
