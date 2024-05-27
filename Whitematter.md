@@ -17,3 +17,5 @@ More:
 **Plasticity:** White matter demonstrates plasticity, meaning it can adapt and change in response to experience and learning. This is particularly important during brain development and recovery from brain injuries.
 
 **Clinical relevance:** Damage to white matter or the myelin sheath can lead to various neurological disorders, such as multiple sclerosis, traumatic brain injury, and certain types of dementia.
+
+---
