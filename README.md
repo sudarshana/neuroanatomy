@@ -6,4 +6,6 @@ I am a post-grad Applied Neuroscience student at King's College London. Have hun
 
 
 1. [Corpus callosum](https://github.com/sudarshana/neuroanatomy/blob/main/corpuscallosum.md)
-2. [White matter](https://github.com/sudarshana/neuroanatomy/blob/main/Whitematter.md)
+2. [Locus coeruleus (LC)](https://github.com/sudarshana/neuroanatomy/blob/main/Locuscoeruleus.md)
+3. [Ventricles](https://github.com/sudarshana/neuroanatomy/blob/main/Ventricles.md) 
+4. [White matter](https://github.com/sudarshana/neuroanatomy/blob/main/Whitematter.md)
