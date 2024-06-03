@@ -1,4 +1,4 @@
-# neuroanatomy
+# Neuroanatomy
 
 This is a dictionary of neuroanatomy terms. The dictionary is created using multiple AI tools, plus secondary research. 
 
