@@ -1,4 +1,4 @@
-#Locus coeruleus
+# Locus coeruleus
 
 Pronunciation: ˈləʊkəs sɪəˈruːlɪəs
 
