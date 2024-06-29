@@ -4,7 +4,7 @@ In the context of neuroscience, a ventricle refers to one of the four interconne
 
 The ventricular system is a series of hollow spaces and channels that produce, transport, and reabsorb CSF. 
 
-![Ventricles](https://en.wikipedia.org/wiki/File:Blausen_0896_Ventricles_Brain.png)
+![Ventricles](https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png)
 
 [Image courtesy: Wikipedia](https://en.wikipedia.org/wiki/Ventricular_system)
 
