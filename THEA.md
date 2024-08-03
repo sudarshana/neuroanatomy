@@ -35,7 +35,7 @@ Let's break down each component:
 
 The THEA approach is designed to provide a structured framework for addressing the interconnected aspects of cognition, emotion, and behavior in therapy. By systematically working through these components, therapists can help patients develop a comprehensive understanding of their mental health issues and acquire practical skills for managing symptoms.
 
-##Key benefits of the THEA approach include:
+## Key benefits of the THEA approach include:
 1. Comprehensive treatment addressing multiple aspects of mental health
 2. Structured format that can be easily understood and followed by patients
 3. Emphasis on skill-building and active patient participation
